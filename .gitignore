@@ -279,4 +279,5 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 
-/wwwroot/**
+/wwwroot/bundle.**
+/.awcache

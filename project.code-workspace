@@ -10,8 +10,6 @@
       "**/.awcache": true,
       "**/bin": true,
       "**/obj": true,
-      "**/.gitattributes": true,
-      "**/.gitignore": true,
       "**/package-lock.json": true,
       "**/.svn": true,
       "**/.hg": true,
