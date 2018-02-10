@@ -8,9 +8,7 @@ ecmascript2017 + typescriptのサンプル
 - .net core2.0
 
 ## Install
-``` bash
-npm install
-```
+`npm install`
 
 ## Usage
 #### Build
