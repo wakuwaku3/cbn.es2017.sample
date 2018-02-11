@@ -1,7 +1,7 @@
 {
   "name": "cbn.es2017.sample",
   "version": "1.0.0",
-  "description": "",
+  "description": "ecmascript2017 + typescriptのサンプル",
   "main": "index.js",
   "scripts": {
     "install": "gulp restore",
